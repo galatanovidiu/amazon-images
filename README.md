@@ -1,1 +1,3 @@
-# amazon-images
+# Amazon images
+
+Import amazon product images
