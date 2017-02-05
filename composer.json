@@ -1,0 +1,13 @@
+{
+    "name": "galatanovidiu/amazon-images",
+    "require": {
+        //"intervention/image": "^2.3", //TODO: add images save/resize
+        "exeu/apai-io": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Galatan ovidiu Iulian",
+            "email": "galatanovidiu@gmail.com"
+        }
+    ]
+}
